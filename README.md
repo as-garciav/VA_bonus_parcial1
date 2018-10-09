@@ -3,6 +3,14 @@
 ## VISUALIZACIÓN DISPONIBLE EN:
 https://beta.observablehq.com/@as-garciav/gistemp-nos-ensena-sobre-el-calentamiento-global
 
+## Requisitos
+Internet
+
+## Tecnologías
+Observable y d3.js V5
+
+## Introducción
+
 Una de las mayores controversias a nivel mundial es la existencia del cambio climático. Entre las razones por las cuales es difícil describir los cambios en la temperatura global a lo largo del tiempo, proviene de la dificultad de definir, obtener y analizar correctamente la temperatura de la superficie de la tierra. Por lo anterior el equipo de GISTEMP (Goddard Institute Surface Temperature) a lo largo de los años ha obtenido, depurado, estandarizado y analizado información de la temperatura en diferentes lugares alrededor del mundo. 
 Los datos (https://data.giss.nasa.gov/gistemp/) actualmente disponibles corresponden a las desviaciones de la temperatura promedio registrada en el periodo de 1951 a 1980, registradas mensualmente desde 1880 hasta 2017, el set de datos describe también las variaciones de temperatura en un periodo mensual, anual y trimestral, descrito por las siglas de los meses del año en inglés.  
 
@@ -82,6 +90,12 @@ B. Se ovserva claramente en el heatmap que el y en los la línea de la temperatu
 C. Se tienen la gráfica de scatterplot y la visualización dinámica en la página web, también es posible observar diferencias e información complementaria en la forma que se observan las temperaturas entre el linechart y el heatmap
 
 D. Los diferentes trimestres del año muestran cambios en la temperatura que no tienen patrones claros para afirmar que un trimestre sea por lo general más cálido o más frío que otro, sin embargo por los diferentes colores obtenidos se anualmente es posible ver tendencias cada 4 o 8 años en patrones que por lo general se pueden asociar a fenómenos climáticos como el fenómeno del Niño o de la Niña
+
+## Demo 
+
+Disponible en: 
+
+https://youtu.be/XwE15qa4EeQ
 
 
 
