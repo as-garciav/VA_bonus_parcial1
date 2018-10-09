@@ -1,5 +1,8 @@
 # El calentamiento global es una realidad
 
+## vISUALIZACIÓN DISPONIBLE EN:
+https://beta.observablehq.com/@as-garciav/gistemp-nos-ensena-sobre-el-calentamiento-global
+
 Una de las mayores controversias a nivel mundial es la existencia del cambio climático. Entre las razones por las cuales es difícil describir los cambios en la temperatura global a lo largo del tiempo, proviene de la dificultad de definir, obtener y analizar correctamente la temperatura de la superficie de la tierra. Por lo anterior el equipo de GISTEMP (Goddard Institute Surface Temperature) a lo largo de los años ha obtenido, depurado, estandarizado y analizado información de la temperatura en diferentes lugares alrededor del mundo. 
 Los datos (https://data.giss.nasa.gov/gistemp/) actualmente disponibles corresponden a las desviaciones de la temperatura promedio registrada en el periodo de 1951 a 1980, registradas mensualmente desde 1880 hasta 2017, el set de datos describe también las variaciones de temperatura en un periodo mensual, anual y trimestral, descrito por las siglas de los meses del año en inglés.  
 
